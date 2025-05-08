@@ -29,4 +29,4 @@ This Python script helps you:
 Install dependencies:
 
 ```bash
-pip install requests
+pip install -r requirements.txt
